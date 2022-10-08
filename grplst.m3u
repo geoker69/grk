@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1eu.ant1europe.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/180px-ANT1_Greek_channel_logo.svg.png",ANT1 
+#EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1eu.ant1europe.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/180px-ANT1_Greek_channel_logo.svg.png",ANT1EU 
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.ant1.gr" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1
 http://cdn.smart-tv-data.com/ant1/20220930_003000.mpeg.mp4
