@@ -8,11 +8,13 @@ https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/go
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ert.ertworld.gr" tvg-logo="https://en.wikipedia.org/wiki/ERT_World#/media/File:ChannelLogo-ERTWORLD1.png",ERT WORLD 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-name="ert.ertnews.gr" tvg-logo="https://i.imgur.com/ujTPC3J.jpg",ERT NEWS
-http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.openbeyond.gr" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.alpha.gr" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.alpha.gr" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA 2
+ @@ -40,7 +40,7 @@ http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png",STAR HD 
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
@@ -20,7 +22,7 @@ https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:5815 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tvm.gr" tvg-logo="https://i.imgur.com/1XeMRlc.png",AEOLOS TV
-https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/e4umCKP.jpg",DESTINATION GREECE TV
 https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0AhJTU.png",MGR TV TRAVEL
