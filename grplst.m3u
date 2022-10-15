@@ -85,8 +85,10 @@ https://solid9.streamupsolutions.com/proxy/abuyunbd?mp=/;type=mp3
 http://nrg.lalala.gr:8012/;
 #EXTINF:0 radio="true",DALKAS 88.2
 http://dalkas.lalala.gr:8018/;
-#EXTINF:0,BLE 99
+#EXTINF:0 radio="true" ,MPLE 99
 http://mple.lalala.gr:8002/;
+#EXTINF:0 radio="true",BLE 93.1
+http://radio.lancom.gr:8012/stream1
 #EXTINF:0 radio="true",4U RADIO 93.1
 http://netradio.live24.gr/4uradio931
 #EXTINF:0 radio="true",Sfera 102.2
@@ -105,8 +107,6 @@ https://stream.radiojar.com/8du64725e3quv
 http://s6.onweb.gr:8010/;
 #EXTINF:0 radio="true",104.9 STYL FM
 http://s3.onweb.gr:8530
-#EXTINF:0 radio="true",BLE 93.1
-http://radio.lancom.gr:8012/stream1
 #EXTINF:0 radio="true",MYTHOS FM 93.4
 http://s2.free-shoutcast.com:18560/;
 #EXTINF:0 radio="true",GNOMI FM 93.7
