@@ -77,6 +77,12 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 http://sokfm.lalala.gr:8000/;
 #EXTINF:0 radio="true",MAX FM XANIA 100.2
 https://solid9.streamupsolutions.com/proxy/abuyunbd?mp=/;type=mp3
+#EXTINF:0 radio="true",NRG EVIA 95
+http://nrg.lalala.gr:8012/;
+#EXTINF:0 radio="true",DALKAS 88.2
+http://dalkas.lalala.gr:8018/;
+#EXTINF:0,BLE 99
+http://mple.lalala.gr:8002/;
 #EXTINF:0 radio="true",4U RADIO 93.1
 http://netradio.live24.gr/4uradio931
 #EXTINF:0 radio="true",Sfera 102.2
@@ -87,8 +93,6 @@ http://eco.onestreaming.com:8518/;
 https://stream.rcs.revma.com/0btynq5r4a0uv
 #EXTINF:0 radio="true",DERTI WEB RADIO
 http://derti.live24.gr/derty1000
-#EXTINF:0 radio="true",NRG EVIA 95
-http://nrg.lalala.gr:8012/;
 #EXTINF:0 radio="true",ARION LAIKOS
 http://arion.onestreaming.com:80/arionlaikos
 #EXTINF:0 radio="true",Melodia 99.2
@@ -214,8 +218,6 @@ http://netradio.live24.gr/radiopindos1077
 http://streaming.multiserver.gr:8013/;
 #EXTINF:0 radio="true",MELWDIA LAMIAS 88
 http://eco.onestreaming.com:8129/;
-#EXTINF:0 radio="true",DALKAS 88.2
-http://dalkas.lalala.gr:8018/;
 #EXTINF:0 radio="true",RADIO XIROMERO 88.3
 http://alfahost.no-ip.biz:8895/;
 #EXTINF:0 radio="true",HOME 89.1
