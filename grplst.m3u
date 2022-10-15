@@ -21,6 +21,10 @@ https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:5815 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tvm.gr" tvg-logo="https://i.imgur.com/1XeMRlc.png",AEOLOS TV
 http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
+https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/PcbFVVe.jpg",AKTINA TV
+https://5e8dfce185af1.streamlock.net:443/AktinaWebTv/AktinaWebTv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/e4umCKP.jpg",DESTINATION GREECE TV
 https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0AhJTU.png",MGR TV TRAVEL
@@ -43,10 +47,10 @@ https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.tv100.gr" tvg-logo="https://i.imgur.com/pgh4xoa.png",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
-https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mtv.gr" tvg-logo="https://i.imgur.com/dh22Dj8.png",M.TV
-http://31.177.62.174:8003/play/s121
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="neatvcrete" tvg-logo="https://i.imgur.com/YgBEKIy.png",NEA TV
+https://live.neatv.gr:8888/hls/neatv.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.creta.gr" tvg-logo="https://i.imgur.com/rJgfuA2.png",CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="digea.hlektratv.gr" tvg-logo="https://i.imgur.com/3Js5DYe.png",HLEKTRA TV
 http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/5d9auiL.png",DIAVATA TV HD
