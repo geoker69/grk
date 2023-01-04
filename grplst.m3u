@@ -78,16 +78,8 @@ https://vod.streams.ovh:3876/live/mgrtvlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/sUbc38a.png",GRD CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
-#EXTINF:0 radio="true",SOK FM 104.8
-https://stream.radiojar.com/zeqcyyvu48hvv;
 #EXTINF:0 radio="true",MAX FM XANIA 100.2
 https://solid9.streamupsolutions.com/proxy/abuyunbd?mp=/;type=mp3
-#EXTINF:0 radio="true",NRG EVIA 95
-http://nrg.lalala.gr:8012/;
-#EXTINF:0 radio="true",DALKAS 88.2
-http://dalkas.lalala.gr:8018/;
-#EXTINF:0 radio="true" ,MPLE 99
-http://mple.lalala.gr:8002/;
 #EXTINF:0 radio="true",BLE 93.1
 http://radio.lancom.gr:8012/stream1
 #EXTINF:0 radio="true",4U RADIO 93.1
