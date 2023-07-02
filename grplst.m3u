@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1europe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ANT1_Greek_channel_logo.svg/180px-ANT1_Greek_channel_logo.svg.png",ANT1EU 
-http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
-#EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
-http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/MFJJOuf.jpg",OPEN SPORT
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/MFJJOuf.jpg",OPEN SPORT 1
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://i.imgur.com/MFJJOuf.jpg",OPEN SPORT 2
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/playlist.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/5Ey7DYk.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
