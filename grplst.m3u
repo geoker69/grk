@@ -15,9 +15,9 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/5Ey7DYk.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="",DELTA CINEMA
+#EXTINF:-1 group-title="CINEMA" tvg-id="delta" tvg-logo="",DELTA CINEMA
 https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Undefined",Sigma TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="sigma" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Undefined",Sigma TV (576p) [Not 24/7]
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="creta" tvg-logo="https://i.imgur.com/CpIeJyt.png" group-title="Undefined",Creta (540p) [Not 24/7]
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
@@ -83,8 +83,14 @@ https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 https://solid9.streamupsolutions.com/proxy/abuyunbd?mp=/;type=mp3
 #EXTINF:0 radio="true",SOK FM 104.8
 https://stream.radiojar.com/zeqcyyvu48hvv
+#EXTINF:0 radio="true",Panikos FM 95.8
+https://toradio.cc/radio/8010/stream
+#EXTINF:0 radio="true",NRG 98.5 FM
+http://eco.onestreaming.com:8452/stream/1/
 #EXTINF:0 radio="true",DALKAS 88.2
 https://stream.radiojar.com/pr9r38w802hvv
+#EXTINF:0 radio="true",Play Radio
+https://n07.radiojar.com/0zs50dbr274tv?rj-ttl=5&rj-tok=AAABj6z4JBgA7aKCdQTacDwRbg
 #EXTINF:0 radio="true",BLE 93.1
 http://radio.lancom.gr:8012/stream1
 #EXTINF:0 radio="true",4U RADIO 93.1
