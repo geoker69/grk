@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:11 group-title="HDTV" tvg-name="ertworld" tvg-logo="https://github.com/geoker69/grk/blob/main/ertworld.png",ERT WORLD 
+http://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
+#EXTINF:600 group-title="HDTV" tvg-name="skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
