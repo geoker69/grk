@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Ant1"
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Ant1"
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ANT1COMEDY"
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1COMEDY"
 #KODIPROP:inputstream=inputstream.adaptive
 https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/6415884360001/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ANT1DRAMA" 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ANT1DRAMA" 
 #KODIPROP:inputstream=inputstream.adaptive
 https://lcdn.antennaplus.gr/r123fc9b6eb1b493fa0ac71004f572652/eu-central-1/6415884360001/playlist.m3u8
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
@@ -16,7 +16,8 @@ https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
 https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts?username=H645668DH&password=7565848DHY&type=m3u_plus&proxy=93.174.121.131:8080
 #EXTINF:-1 tvg-id="atticatv" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="Undefined",Attica TV (1080p)
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/5Ey7DYk.png",ANT1 CY
@@ -392,4 +393,5 @@ http://magic982.live24.gr/magic982
 http://eco.onestreaming.com:8237/live
 #EXTINF:0 radio="true",SFERA 98.7
 https://i5.streams.ovh:2200/ssl/web100?mp=/stream
+
 
