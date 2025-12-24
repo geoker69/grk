@@ -15,16 +15,18 @@ https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8|User-Agent=Mozil
 https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
 https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
-#KODIPROP:inputstream=inputstream.adaptive
-http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts?username=H645668DH&password=7565848DHY&type=m3u_plus&proxy=93.174.121.131:8080
-#EXTINF:-1 tvg-id="atticatv" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="Undefined",Attica TV (1080p)
-http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://i.imgur.com/5Ey7DYk.png",ANT1 CY
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-id="delta" tvg-logo="",DELTA CINEMA
-https://ssh101.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1 tvg-id="sigma" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Undefined",Sigma TV (576p) [Not 24/7]
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="MADTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/MADtv_logo.png",MADTV
-https://raw.githubusercontent.com/don24crk/Don24crk-Repository/refs/heads/master/MADTV.m3u8
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
+#KODIPROP:inputstream=inputstream.adaptive
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316354.ts?username=H645668DH&password=7565848DHY&type=m3u_plus&proxy=93.174.121.131:8080
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="VILLAGE WORLD" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8name= Baraza TV Greek hits url= "https://eco.streams.ovh:8081/barazatv/index.m3u8" logo= "https://i.imgur.com/NlN4lmc.png"
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Baraza TV Laika" tvg-logo="https://i.imgur.com/NlN4lmc.png",Baraza TV Laika
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Baraza TV Greek Hits" tvg-logo="https://i.imgur.com/NlN4lmc.png" ,Baraza TV Greek
+https://eco.streams.ovh:8081/barazatv/index.m3u8
