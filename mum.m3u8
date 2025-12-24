@@ -6,7 +6,6 @@ https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37alpha76cb/eu-central-1/6
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png" ,Ant1 Drama
 #KODIPROP:inputstream=inputstream.adaptive
 https://lcdn.antennaplus.gr/r123fc9b6eb1b493fa0ac71004f572652/eu-central-1/6415884360001/playlist.m3u8
-#EXTM3U
 #EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="mega" tvg-logo="https://i.imgur.com/yyp6tS5.png",MEGA 
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
@@ -19,11 +18,9 @@ https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="sigma" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Undefined",Sigma TV (576p) [Not 24/7]
 https://sl2.sigmatv.com/hls/live.m3u8
-#EXTM3U
-#EXTINF:1 tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD World
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
-#EXTM3U
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/MADtv_logo.png",MADTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/MADtv_logo.png",MADTV
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="VILLAGE WORLD" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8name= Baraza TV Greek hits url= "https://eco.streams.ovh:8081/barazatv/index.m3u8" logo= "https://i.imgur.com/NlN4lmc.png"
