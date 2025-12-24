@@ -19,13 +19,15 @@ https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="sigma" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Undefined",Sigma TV (576p) [Not 24/7]
 https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/MADtv_logo.png",MADTV
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
+#EXTM3U
 #EXTINF:1 tvg-logo="https://i.imgur.com/zoS5RWU.png",MAD World
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
+#EXTM3U
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/MADtv_logo.png",MADTV
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="VILLAGE WORLD" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8name= Baraza TV Greek hits url= "https://eco.streams.ovh:8081/barazatv/index.m3u8" logo= "https://i.imgur.com/NlN4lmc.png"
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Baraza TV Laika" tvg-logo="https://i.imgur.com/NlN4lmc.png",Baraza TV Laika
 https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Baraza TV Greek Hits" tvg-logo="https://i.imgur.com/NlN4lmc.png" ,Baraza TV Greek
-https://eco.streams.ovh:8081/barazatv/index.m3u8 
+https://eco.streams.ovh:8081/barazatv/index.m3u8
